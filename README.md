@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Felipe Dedes</h1>
 <h3 align="center">Soy geólogo apasionado por los datos. Uso la ciencia de datos para tomar decisiones de manera informada, ya que creo que ahí está el secreto del éxito. Como se dice por ahí "El conocimiento es poder!"</h3>
 
+
 - 🔭 Actualmente trabajo de geólogo en minería [Minera Los Pelambres](https://web.pelambres.cl/)
 
 - 🌱 Me gusta mucho aprender materias que puedo aplicar en mi trabajo **Data science, Python, VBA**
