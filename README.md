@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="139" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="190" src="https://www.montdigital.com/admin/uploads/sub_services/upload_photo/1560496804.jpg"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ "vivo ut cognoscam quae attacturus sim"<br>📚 Me encuentro estudiando y perfeccionando ciencia de datos<br>🎯 Mi meta es desarrollar herramientas que quiten la subjetividad en la geología<br>🎲 Fun fact: El sol no se está quemando</p>
+<p align="left">✨ "vivo ut cognoscam quae attacturus sim"<br>📚 Me encuentro estudiando y perfeccionando ciencia de datos<br>🎯 Mi meta es desarrollar herramientas que quiten la subjetividad en la geología<br>🎲 Fun fact: Aficionado del trading</p>
 
 ###
 
