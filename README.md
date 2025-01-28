@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ "vivo ut cognoscam quae attacturus sim"<br>📚 Me encuentro estudiando y perfeccionando ciencia de datos<br>🎯 Mi meta es desarrollar herramientas que quiten la subjetividad en la geología<br>🎲 Fun fact: Aficionado del trading</p>
+<p align="left">✨ Python | VBA | Pandas | SQL <br>📚 Me encuentro estudiando y perfeccionando ciencia de datos<br>🎯 Mi meta es desarrollar herramientas que quiten la subjetividad en la geología<br>🎲 Fun fact: Aficionado del trading</p>
 
 ###
 
